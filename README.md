@@ -1,4 +1,4 @@
-Ini adalah projek berjudul aplikasi Pembelian Tiket Kereta Api Sederhana dengan netbeans
+Ini adalah projek berjudul aplikasi Pembelian Tiket Kereta Api Sederhana dengan netbeans.
 Nama Kelompok :
 - Satrio Nandito
 - Fatiha Eros Perdana
